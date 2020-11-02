@@ -1,0 +1,7 @@
+B:\office\c#\Day3\ProjectDay3\MethogsEg\bin\Debug\MethogsEg.exe.config
+B:\office\c#\Day3\ProjectDay3\MethogsEg\bin\Debug\MethogsEg.exe
+B:\office\c#\Day3\ProjectDay3\MethogsEg\bin\Debug\MethogsEg.pdb
+B:\office\c#\Day3\ProjectDay3\MethogsEg\obj\Debug\MethogsEg.csprojAssemblyReference.cache
+B:\office\c#\Day3\ProjectDay3\MethogsEg\obj\Debug\MethogsEg.csproj.CoreCompileInputs.cache
+B:\office\c#\Day3\ProjectDay3\MethogsEg\obj\Debug\MethogsEg.exe
+B:\office\c#\Day3\ProjectDay3\MethogsEg\obj\Debug\MethogsEg.pdb

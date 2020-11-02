@@ -1,0 +1,7 @@
+B:\office\c#\Day3\ProjectDay3\Class_ObjectEg\bin\Debug\Class_ObjectEg.exe.config
+B:\office\c#\Day3\ProjectDay3\Class_ObjectEg\bin\Debug\Class_ObjectEg.exe
+B:\office\c#\Day3\ProjectDay3\Class_ObjectEg\bin\Debug\Class_ObjectEg.pdb
+B:\office\c#\Day3\ProjectDay3\Class_ObjectEg\obj\Debug\Class_ObjectEg.csprojAssemblyReference.cache
+B:\office\c#\Day3\ProjectDay3\Class_ObjectEg\obj\Debug\Class_ObjectEg.csproj.CoreCompileInputs.cache
+B:\office\c#\Day3\ProjectDay3\Class_ObjectEg\obj\Debug\Class_ObjectEg.exe
+B:\office\c#\Day3\ProjectDay3\Class_ObjectEg\obj\Debug\Class_ObjectEg.pdb

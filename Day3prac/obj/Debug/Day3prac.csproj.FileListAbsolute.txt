@@ -1,0 +1,7 @@
+B:\office\c#\Day3\ProjectDay3\Day3prac\bin\Debug\Day3prac.exe.config
+B:\office\c#\Day3\ProjectDay3\Day3prac\bin\Debug\Day3prac.exe
+B:\office\c#\Day3\ProjectDay3\Day3prac\bin\Debug\Day3prac.pdb
+B:\office\c#\Day3\ProjectDay3\Day3prac\obj\Debug\Day3prac.csprojAssemblyReference.cache
+B:\office\c#\Day3\ProjectDay3\Day3prac\obj\Debug\Day3prac.csproj.CoreCompileInputs.cache
+B:\office\c#\Day3\ProjectDay3\Day3prac\obj\Debug\Day3prac.exe
+B:\office\c#\Day3\ProjectDay3\Day3prac\obj\Debug\Day3prac.pdb
